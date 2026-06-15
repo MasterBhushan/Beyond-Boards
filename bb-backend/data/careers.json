@@ -1,0 +1,107 @@
+[
+  {
+    "id": "software_engineer",
+    "name": "Software Engineer",
+    "emoji": "💻",
+    "color": "#00D8FF",
+    "title": "Build apps used by millions",
+    "desc": "Software engineers design, build and scale digital products used every day.",
+    "youtubeId": "rfscVS0vtbw",
+    "roadmap": {
+      "subjects": [
+        "Physics",
+        "Mathematics",
+        "Computer Science"
+      ],
+      "exams": [
+        "JEE",
+        "BITSAT"
+      ],
+      "timeline": [
+        {
+          "year":"11th-12th",
+          "task":"Focus on PCM"
+        },
+        {
+          "year":"College",
+          "task":"Learn DSA and Web Development"
+        }
+      ],
+      "colleges":[
+        "IIT Bombay",
+        "BITS Pilani"
+      ],
+      "tip":"Build projects from day one."
+    }
+  },
+  {
+    "id":"doctor",
+    "name":"Doctor",
+    "emoji":"🩺",
+    "color":"#FF4D6D",
+    "title":"Save lives every day",
+    "desc":"Doctors diagnose diseases and improve people's health.",
+    "youtubeId":"0QyK4M7YH-E",
+    "roadmap":{
+      "subjects":[
+        "Biology",
+        "Physics",
+        "Chemistry"
+      ],
+      "exams":[
+        "NEET"
+      ],
+      "timeline":[
+        {
+          "year":"11th-12th",
+          "task":"Prepare for NEET"
+        },
+        {
+          "year":"MBBS",
+          "task":"Clinical rotations"
+        }
+      ],
+      "colleges":[
+        "AIIMS Delhi",
+        "CMC Vellore"
+      ],
+      "tip":"Strong consistency beats last-minute preparation."
+    }
+  },
+  {
+    "id":"investment_banker",
+    "name":"Investment Banker",
+    "emoji":"💰",
+    "color":"#FFD166",
+    "title":"Work on billion-dollar deals",
+    "desc":"Help companies raise money and execute mergers and acquisitions.",
+    "youtubeId":"M7lc1UVf-VE",
+    "roadmap":{
+      "subjects":[
+        "Commerce",
+        "Economics",
+        "Mathematics"
+      ],
+      "exams":[
+        "CA",
+        "CFA",
+        "CAT"
+      ],
+      "timeline":[
+        {
+          "year":"Graduation",
+          "task":"Build finance fundamentals"
+        },
+        {
+          "year":"MBA",
+          "task":"Target investment banking roles"
+        }
+      ],
+      "colleges":[
+        "IIM Ahmedabad",
+        "SRCC"
+      ],
+      "tip":"Networking matters as much as technical knowledge."
+    }
+  }
+]
